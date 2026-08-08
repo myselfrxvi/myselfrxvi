@@ -40,10 +40,6 @@ I build bots, experiments, automations and whatever interesting idea comes to mi
 
 <br>
 
-### 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=myselfrxvi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6" />
-
 <br>
 
 **✨ Creating • Experimenting • Learning**
