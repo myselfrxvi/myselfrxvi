@@ -1,11 +1,51 @@
-<h1>Hi 👋, Myself Ravi</h1>
-<p>A newbie frontend developer from India.</p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a></p>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.instagram.com/ydvraviii" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=myselfRxvi&show_icons=true&locale=en" alt="myselfRxvi" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=myselfRxvi&show_icons=true&locale=en&layout=compact" alt="myselfRxvi" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=myselfRxvi" alt="myselfRxvi" /></a></p>
+<div align="center">
+
+# 👋 Hey, I'm Ravi
+
+### 🤖 AI • 🐍 Python • 🎨 Creative Builder
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Building+with+AI+%F0%9F%A4%96;Python+Developer+%F0%9F%90%8D;Turning+Ideas+into+Code+%E2%9C%A8;Always+Experimenting+%F0%9F%9A%80" />
+
+</div>
+
+---
+
+### 🧠 About Me
+
+I love **AI, Python & creativity**.
+I build bots, experiments, automations and whatever interesting idea comes to mind.
+
+> **Build. Break. Learn. Repeat.**
+
+### 🚀 Featured
+
+🎵 **Aria** — Discord music bot
+🤖 **AI Experiments** — AI tools & automation
+🐍 **Python Projects** — Bots, APIs & utilities
+
+### 🛠️ Tech
+
+`Python` `AI` `Go` `JavaScript` `Discord` `SQLite` `Linux` `Docker`
+
+<div align="center">
+
+### 📊 GitHub
+
+<img src="https://github-readme-stats.vercel.app/api?username=myselfrxvi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165"/>
+<img src="https://streak-stats.demolab.com?user=myselfrxvi&theme=tokyonight&hide_border=true" height="165"/>
+
+### 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/myselfrxvi/myselfrxvi/output/github-contribution-grid-snake-dark.svg" />
+
+<br>
+
+### 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=myselfrxvi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6" />
+
+<br>
+
+**✨ Creating • Experimenting • Learning**
+
+</div>
