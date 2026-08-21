@@ -19,7 +19,6 @@ I build bots, experiments, automations and whatever interesting idea comes to mi
 
 ### 🚀 Featured
 
-🎵 **Aria** — Discord music bot
 🤖 **AI Experiments** — AI tools & automation
 🐍 **Python Projects** — Bots, APIs & utilities
 
