@@ -113,7 +113,6 @@ if __name__ == "__main__":
 | **Async & Concurrency** | `AsyncIO` • `Event Loops` • `Discord.py Voice Engines` • `WebSockets` • `Task Queues` |
 | **Cloud & Data Architecture** | `PostgreSQL` • `Redis Caching` • `Docker Containers` • `Linux VPS Deployment` • `CI/CD Pipelines` |
 | **Tooling & Environments** | `Git / GitHub (@myselfrxvi)` • `Linux / Bash` • `Virtualenv / Poetry / uv` • `RESTful APIs` |
-| **Frontend & UI Motion** | `Modern CSS3` • `StudioMotion` • `JavaScript / Three.js` • `Responsive Layouts` |
 
 </div>
 
