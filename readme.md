@@ -37,7 +37,7 @@ import asyncio
 class Engineer:
     name: str = "Ravinish Prakash"
     handle: str = "@myselfrxvi"
-    role: str = "High School Developer & Python Architect"
+    role: str = "Newbie Developer & Python Architect"
     core_language: str = "Python (3.13+ AsyncIO)"
     
     specializations: list[str] = field(default_factory=lambda: [
