@@ -118,20 +118,6 @@ if __name__ == "__main__":
 
 ---
 
-## 📊 Telemetry & Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=myselfrxvi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=05070a&title_color=ff5a3c&icon_color=10b981&text_color=dfe7e0" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=myselfrxvi&theme=tokyonight&hide_border=true&background=05070a&ring=ff5a3c&fire=e0231c&currStreakNum=dfe7e0&sideNums=dfe7e0&currStreakLabel=10b981" alt="GitHub Streak" width="48%" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myselfrxvi&layout=compact&theme=tokyonight&hide_border=true&bg_color=05070a&title_color=ff5a3c&text_color=dfe7e0" alt="Top Languages" width="48%" />
-
-</div>
-
----
 
 <div align="center">
 
