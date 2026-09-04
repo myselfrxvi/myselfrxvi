@@ -36,7 +36,7 @@ import asyncio
 @dataclass(frozen=True, slots=True)
 class Engineer:
     name: str = "Ravinish Prakash"
-    handle: str = "@myselfrxvi"
+    handle: str = "@myselfrxvi & @x1337R"
     role: str = "Newbie Developer & Python Architect"
     core_language: str = "Python (3.13+ AsyncIO)"
     
