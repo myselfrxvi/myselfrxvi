@@ -10,7 +10,7 @@
 ```
 
 <a href="https://myselfravi.qd.je">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Building+with+AI+%F0%9F%A4%96;Python+Developer+%F0%9F%90%8D;Turning+Ideas+into+Code+%E2%9C%A8;Always+Experimenting+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Building+with+AI+%F0%9F%A4%96;Python+Developer+%F0%9F%90%8D;Turning+Ideas+into+Code+%E2%9C%A8;Learning+C+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
